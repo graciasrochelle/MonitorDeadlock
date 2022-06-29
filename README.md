@@ -1,5 +1,5 @@
 # MonitorDeadlock
-Monitor deadlock and send notification to slack
+Monitor deadlock and send notification to slack. SLACK API: https://github.com/slackapi/python-slack-sdk
 
 Commands:
 
