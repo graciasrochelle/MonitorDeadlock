@@ -8,7 +8,7 @@ import json
 import time
 
 def sendSlackMessage(message, details):
-    token = "xoxb-3719420712373-3719431388853-6DOHuR4bq0XVLMBnguqdqC0i"
+    token = ""
     client = slack_sdk.WebClient(token=token)
 
     response = client.chat_postMessage(
